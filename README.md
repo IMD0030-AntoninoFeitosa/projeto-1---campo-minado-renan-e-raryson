@@ -6,9 +6,9 @@ Projeto para disciplina de Linguagem de Programação 1 IMD0030 2022.1
 
 O trabalho é em dupla (não pode ser individual) e pode ser submetido via SIGAA (arquivo compactado com todo o código-fonte) ou via GitHub Classroom.
 
-Integrante 1: Nome Matrícula:
+Integrante 1: Renan Ribeiro - 20200119355
 
-Integrante 2: Nome Matrícula:
+Integrante 2: Raryson Fred - 20200138154
 
 ## O Jogo
 
